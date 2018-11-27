@@ -1,10 +1,11 @@
-var myImages =["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWQEdRL9nNp6Jn7U8V8G0ENh0XiRI9PHPR0Mew2gm3igpwd5cV5A",
+var myImages =["https://i.pinimg.com/originals/21/64/df/2164df11e637d6bac9b6d722cb0d3c8a.jpg",
+               "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWQEdRL9nNp6Jn7U8V8G0ENh0XiRI9PHPR0Mew2gm3igpwd5cV5A",
                "http://cdn3.theeventchronicle.com/wp-content/uploads/2014/09/dolphin-intelligence.jpg",
                "https://petsymptoms.com/wp-content/uploads/2017/05/bulldog-big-dog-breeds-px.jpg",
                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRumx_mPDuB86EkgYsg-9QJb6p4uvp4XEwo1e_u5rAhx9sqbcLSag"];
 
 
-var captionImages =["BILLY","PENELOPE","LEO","RUBY"];
+var captionImages =["BOB","BILLY","PENELOPE","LEO","RUBY"];
 
  var index=0; 
 
